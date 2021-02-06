@@ -1,4 +1,5 @@
-CheatSheets for coding easability.
+CheatSheets for coding easability. 
+
 Python
 Git
 Java
